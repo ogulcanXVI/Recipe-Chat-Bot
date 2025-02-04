@@ -1,4 +1,4 @@
-Experience it: recipechatbot.netlify.app
+Experience it: [Recipe Chat Bot](recipechatbot.netlify.app)
 
 In this project, I worked on the following React and JavaScript concepts:
 
