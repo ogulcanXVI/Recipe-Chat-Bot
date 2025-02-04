@@ -1,4 +1,4 @@
-Experience it: [Recipe Chat Bot]([url](https://recipechatbot.netlify.app/))
+Experience it: [Recipe Chat Bot](https://recipechatbot.netlify.app/)
 
 In this project, I worked on the following React and JavaScript concepts:
 
