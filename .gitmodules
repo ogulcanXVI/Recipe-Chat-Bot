@@ -1,0 +1,3 @@
+[submodule "Recipe-Chat-Bot"]
+    path = Recipe-Chat-Bot
+    url = https://github.com/ogulcanXVI/Recipe-Chat-Bot.git
